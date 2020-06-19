@@ -1,0 +1,25 @@
+\textcolor{red}{\section{Annexe : courbes réponses faites avec LibreOffice Calc}}
+\begin{figure}[h]
+    \includegraphics[width=.8\linewidth]{courbe_trajectoire.png}
+    \caption{Trajectoire du ballon pour une vitesse initiale de 72 km/h et un angle de tir de 20~°}
+\end{figure}
+
+\begin{figure}[h]
+    \includegraphics[width=.8\linewidth]{courbe_alpha.png}
+    \caption{Visualisation de la hauteur du ballon en fonction de l'angle de tir par rapport à la barre transversale (en rouge) à 40 m, donc au niveau des cages à l'autre bout du terrain. La vitesse initiales est toujours de 72 km/h.}
+\end{figure}
+
+\begin{figure}[h]
+    \includegraphics[width=.8\linewidth]{courbe_trajectoires_alpha.png}
+    \caption{Faisceau de trajectoire du ballon pour un tir à 72 km/h. Seules sont représentées les courbes pour le cas où le ballon entre dans les cages (sans rebond), pour $\alpha$ = [33 ; 40] \& $\alpha$ = [50 ; 54].}
+\end{figure}
+
+\begin{figure}[h]
+    \includegraphics[width=.8\linewidth]{courbe_V0@0.png}
+    \caption{Optimisation de la vitesse de tir en fonction de l'angle de tir pour une hauteur d'entrée dans les cages de 0 m, soit le ballon arrive au sol sur la ligne...}
+\end{figure}
+
+\begin{figure}[h]
+    \includegraphics[width=.8\linewidth]{courbe_V0@2.png}
+    \caption{Optimisation de la vitesse de tir en fonction de l'angle de tir pour une hauteur d'entrée dans les cages de 2 m, soit le ballon arrive juste sous la barre transversale.}
+\end{figure}
